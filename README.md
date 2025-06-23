@@ -4,12 +4,19 @@ There were 6 exercises to do in the algorithm class.
 We could use everything you've learned so far, which was:
 
 -Variables (int, double, String, boolean, etc.)
+
 -Control structures (if, else, switch)
+
 -Cycles (for, while, do-while)
+
 -Arrays
+
 -Functions
+
 -Basic APIs
+
 -Libraries
+
 -MultiDimensional Arrays/Collections
 
 ---
